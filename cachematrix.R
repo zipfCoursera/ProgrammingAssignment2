@@ -11,8 +11,8 @@
 # redefining its value.
 
 
-# I have included in the same repository a supplementary RMarkdown report (CacheMatrixInAction.html) 
-# with some usage examples. It also show how to improve function cacheSolve() with a matrix singularity 
+# I have included in the same repository a supplementary RMarkdown report (CacheMatrixInAction.md) 
+# with some usage examples. It also shows how to improve function cacheSolve() with a matrix singularity 
 # check using function is.singular.matrix from package matrixcalc.
 
 
